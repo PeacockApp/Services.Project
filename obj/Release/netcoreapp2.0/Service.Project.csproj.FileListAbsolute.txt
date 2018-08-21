@@ -1,0 +1,11 @@
+/Users/Samuel/Projects/PeacockApp/Service.Project/bin/Release/netcoreapp2.0/Service.Project.deps.json
+/Users/Samuel/Projects/PeacockApp/Service.Project/bin/Release/netcoreapp2.0/Service.Project.runtimeconfig.json
+/Users/Samuel/Projects/PeacockApp/Service.Project/bin/Release/netcoreapp2.0/Service.Project.runtimeconfig.dev.json
+/Users/Samuel/Projects/PeacockApp/Service.Project/bin/Release/netcoreapp2.0/Service.Project.dll
+/Users/Samuel/Projects/PeacockApp/Service.Project/bin/Release/netcoreapp2.0/Service.Project.pdb
+/Users/Samuel/Projects/PeacockApp/Service.Project/obj/Release/netcoreapp2.0/Service.Project.csprojResolveAssemblyReference.cache
+/Users/Samuel/Projects/PeacockApp/Service.Project/obj/Release/netcoreapp2.0/Service.Project.csproj.CoreCompileInputs.cache
+/Users/Samuel/Projects/PeacockApp/Service.Project/obj/Release/netcoreapp2.0/Service.Project.AssemblyInfoInputs.cache
+/Users/Samuel/Projects/PeacockApp/Service.Project/obj/Release/netcoreapp2.0/Service.Project.AssemblyInfo.cs
+/Users/Samuel/Projects/PeacockApp/Service.Project/obj/Release/netcoreapp2.0/Service.Project.dll
+/Users/Samuel/Projects/PeacockApp/Service.Project/obj/Release/netcoreapp2.0/Service.Project.pdb
